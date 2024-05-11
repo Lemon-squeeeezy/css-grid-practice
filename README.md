@@ -17,7 +17,7 @@ This project is a simple single pricing web page created to practice CSS Grid la
 
 ## Live Demo
 
-You can view a live demo of this project [here](https://your-demo-url.com).
+You can view a live demo of this project [here](https://lemon-squeeeezy.github.io/css-grid-practice/).
 
 ## How to Use
 
