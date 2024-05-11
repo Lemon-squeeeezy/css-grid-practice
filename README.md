@@ -19,10 +19,14 @@ This project is a simple single pricing web page created to practice CSS Grid la
 
 You can view a live demo of this project [here](https://lemon-squeeeezy.github.io/css-grid-practice/).
 
+## Chalenge Link
+
+You can view the challenge [here](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
+
 ## How to Use
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/single-pricing-webpage.git
+   git clone https://github.com/Lemon-squeeeezy/css-grid-practice
    ```
